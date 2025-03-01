@@ -23,19 +23,19 @@
 
 ### 🌎 **My Personal and Demo Projects That I Maintain and Develop**
 
-🔹 **[Foxzard](http://www.foxzard.com)** [![Live](https://img.shields.io/badge/Live-28A745?style=flat&logo=google-chrome&logoColor=white)](http://www.foxzard.com)  
+🔹 **[Foxzard](http://www.foxzard.com)**   
 *Metatrader Forex Indicator Builder*  
 🛠 `.NET C# MVC, SQL Server, EF, jQuery, Processing.js`
 
-🔹 **[Bubble Volume Market Charts](https://landofcash.github.io/bubble-volume-market-charts/)**  [![Live](https://img.shields.io/badge/Live_POC-28A745?style=flat&logo=google-chrome&logoColor=white)](https://landofcash.github.io/bubble-volume-market-charts/)  
+🔹 **[Bubble Volume Market Charts](https://landofcash.github.io/bubble-volume-market-charts/)**    
 *Real-time Binance API crypto charts*  
 🛠 `Vue.js 3, Vite, Tailwind, WebSockets, Serverless`
 
-🔹 **[BusyLel](http://busylel.conosite.com)** [![Live](https://img.shields.io/badge/Live_Demo-28A745?style=flat&logo=google-chrome&logoColor=white)](http://busylel.conosite.com)  
+🔹 **[BusyLel](http://busylel.conosite.com)**    
 *eBay-style marketplace*  
 🛠 `C# MVC, Entity Framework, SQL Server, jQuery, Bootstrap`
 
-🔹 **[Land of Cash](http://www.landofcash.net)** [![Live](https://img.shields.io/badge/Live-28A745?style=flat&logo=google-chrome&logoColor=white)](http://www.landofcash.net)  
+🔹 **[Land of Cash](http://www.landofcash.net)**   
 *Metatrader tools & signal wizard*  
 🛠 `ASP.NET C#, SQL Server, Prototype.js, Processing.js, Metatrader Experts`
 
