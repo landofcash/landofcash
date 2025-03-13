@@ -1,6 +1,6 @@
 ## Hi, I'm Mikhail 👋
 👨🏽‍💻 **Full-Stack Developer | C# .NET SQL | HTML JavaScript | Vue.js Angular React | Node.js**  
-🧙 **15+ years of experience in web app development.**
+🧙 **19+ years of experience in web app development.**
 
 ---
 
