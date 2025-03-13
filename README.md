@@ -38,7 +38,7 @@ I work on [UPWORK](https://www.upwork.com/freelancers/mikhaila) and **looking fo
 🛠 `Vue.js 3, Vite, Tailwind, WebSockets, Serverless`  
 
 🔹 **[QRXRQ Link Shortener](https://qrxrq.com)** (Public Project)  
-*Real-time Binance API crypto charts* *GITHUB: [QRXRQ Link Shortener](https://github.com/landofcash/qrxrq)*  
+*URL shortening service* *GITHUB: [QRXRQ Link Shortener](https://github.com/landofcash/qrxrq)*  
 🛠 `React, Tailwind, Headless UI, NodeJS, MongoDB, Redis, Azure CI/CD`
 
 🔹 **[BusyLel](http://busylel.conosite.com)** (Private Demo)  
