@@ -29,19 +29,23 @@ I work on [UPWORK](https://www.upwork.com/freelancers/mikhaila) and **looking fo
 
 ### 🌎 **My Personal and Demo Projects That I Maintain and Develop**
 
-🔹 **[Foxzard](http://www.foxzard.com)**   
+🔹 **[Foxzard](http://www.foxzard.com)** (Private Project)
 *Metatrader Forex Indicator Builder*  
 🛠 `.NET C# MVC, SQL Server, EF, jQuery, Processing.js`
 
-🔹 **[Bubble Volume Market Charts](https://landofcash.github.io/bubble-volume-market-charts/)**    
-*Real-time Binance API crypto charts*  
-🛠 `Vue.js 3, Vite, Tailwind, WebSockets, Serverless`
+🔹 **[Bubble Volume Market Charts](https://landofcash.github.io/bubble-volume-market-charts/)** (Public POC)  
+*Real-time Binance API crypto charts* *[bubble-volume-market-charts Github](https://github.com/landofcash/bubble-volume-market-charts)*  
+🛠 `Vue.js 3, Vite, Tailwind, WebSockets, Serverless`  
 
-🔹 **[BusyLel](http://busylel.conosite.com)**    
+🔹 **[QRXRQ Link Shortener](https://qrxrq.com)** (Public Project)  
+*Real-time Binance API crypto charts* *[QRXRQ Link Shortener](https://github.com/landofcash/qrxrq)*  
+🛠 `React, Tailwind, Headless UI, NodeJS, MongoDB, Redis, Azure CI/CD`
+
+🔹 **[BusyLel](http://busylel.conosite.com)** (Private Demo)  
 *eBay-style marketplace*  
 🛠 `C# MVC, Entity Framework, SQL Server, jQuery, Bootstrap`
 
-🔹 **[Land of Cash](http://www.landofcash.net)**   
+🔹 **[Land of Cash](http://www.landofcash.net)** (Private Project)  
 *Metatrader tools & signal wizard*  
 🛠 `ASP.NET C#, SQL Server, Prototype.js, Processing.js, Metatrader Experts`
 
