@@ -29,7 +29,7 @@ I work on [UPWORK](https://www.upwork.com/freelancers/mikhaila) and **looking fo
 
 ### 🌎 **My Personal and Demo Projects That I Maintain and Develop**
 
-🔹 **[Foxzard](http://www.foxzard.com)** (Private Project)
+🔹 **[Foxzard](http://www.foxzard.com)** (Private Project)  
 *Metatrader Forex Indicator Builder*  
 🛠 `.NET C# MVC, SQL Server, EF, jQuery, Processing.js`
 
