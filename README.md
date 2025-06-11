@@ -4,7 +4,7 @@
 
 ---
 
-I work on [UPWORK](https://www.upwork.com/freelancers/mikhaila) and **looking for a full time project now (March/2025)**  
+You can find me on [UPWORK](https://www.upwork.com/freelancers/mikhaila)
 🟢 𝗧𝗢𝗣 𝗥𝗔𝗧𝗘𝗗 𝗣𝗟𝗨𝗦 | 𝟭𝟱+ 𝗬𝗘𝗔𝗥𝗦 | 𝟭𝟴𝗞+ 𝗛𝗢𝗨𝗥𝗦  
 [Message me](https://www.upwork.com/freelancers/mikhaila) if you're looking for a high-quality developer for your project, and let's discuss the details.  
 
