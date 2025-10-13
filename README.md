@@ -1,12 +1,6 @@
 ## Hi, I'm Mikhail 👋
 👨🏽‍💻 **Full-Stack Developer | C# .NET SQL | HTML JavaScript | Vue.js Angular React | Node.js**  
-🧙 **19+ years of experience in web app development.**
-
----
-
-You can find me on [UPWORK](https://www.upwork.com/freelancers/mikhaila)
-🟢 𝗧𝗢𝗣 𝗥𝗔𝗧𝗘𝗗 𝗣𝗟𝗨𝗦 | 𝟭𝟱+ 𝗬𝗘𝗔𝗥𝗦 | 𝟭𝟴𝗞+ 𝗛𝗢𝗨𝗥𝗦  
-[Message me](https://www.upwork.com/freelancers/mikhaila) if you're looking for a high-quality developer for your project, and let's discuss the details.  
+🧙 **Many years of experience in web app development.**
 
 ---
 
