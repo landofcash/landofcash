@@ -45,17 +45,3 @@
 
 ---
 
-### 💼 **Work Experience**
-
-🔹 **2019 – Present** | [IMS Paramed](https://imsparamed.com) | *Full-Stack Web Application Developer*
-- Built business applications optimizing internal processes (C#, .NET, Vue.js, Azure).
-- Migrated legacy ASP/jQuery projects to modern Vue.js & .NET Core stacks.
-- Automated CI/CD workflows with Azure Pipelines.
-
-🔹 **2018 – 2019** | [Cloud Retailer](https://cloudretailer.com) | *Full-Stack Application Developer*
-- Developed a POS application integrated with **ZEBRA Printers**.
-- Built WPF and web-based UI for retail systems.
-
-🔹 **2014 – 2018** | [Noviopus](https://noviopus.com) | *Node.js Developer*
-- Developed backend for a job search platform using **Node.js & Angular**.
-- Implemented AI-powered CV-matching algorithms.  
