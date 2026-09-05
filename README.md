@@ -1,10 +1,16 @@
-## Hi, I'm Mikhail 👋
-👨🏽‍💻 **Full-Stack Developer | C# .NET SQL | HTML JavaScript | Vue.js React | Node.js**  
-🧙 **Many years of experience in web app development.**
+# Hi, I'm Mike 👋
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;vCenter=true&amp;width=760&amp;lines=Building+commerce%2C+automation%2C+and+real-time+systems;Shipping+with+.NET%2C+TypeScript%2C+and+Web3;Using+Codex+and+modern+AI+tooling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=0969DA&amp;vCenter=true&amp;width=760&amp;lines=Building+commerce%2C+automation%2C+and+real-time+systems;Shipping+with+.NET%2C+TypeScript%2C+and+Web3;Using+Codex+and+modern+AI+tooling" alt="Building commerce, automation, and real-time systems; shipping with .NET, TypeScript, and Web3; using Codex and modern AI tooling" />
+</picture>
+
+👨🏽‍💻 **Full-stack developer building commerce, automation, and real-time systems with .NET, TypeScript, Web3, and modern AI tooling.**<br>
+🤖 **I use OpenAI Codex and other AI tools for implementation, code review, debugging, and documentation.**
 
 ---
 
-### 🛠 **Tech Stack**
+## 🛠 Tech Stack
 
 **Backend**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -32,7 +38,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-**Networking**  
+**Infrastructure & DevOps**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-6DA544?style=flat&logo=githubactions&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-1E90FF?style=flat)
@@ -53,7 +59,32 @@
 
 ---
 
-### 🌎 **My Personal and Demo Projects That I Maintain and Develop**
+## 🏆 Featured Hackathon Projects
+
+### Merxet
+
+*QR-based commerce with smart-contract escrow and end-to-end encrypted order data on Hedera Testnet.*
+
+<p align="center">
+  <img src="./assets/merxet-hackathon.jpg" alt="Merxet mobile QR shopping, product, and cart screens" width="820" />
+</p>
+
+[Seller Portal](https://merxet.com) · [Buyer App](https://app.merxet.com) · [Promo Catalog](https://promo.merxet.com) · [Pitch Deck](https://merxet.com/merxet-pitch-deck-final.pdf) · [Demo Video](https://youtu.be/H70hg3E135g)
+
+### Flownee — Your Flow. What Makes Sense Next
+
+*OpenAI Build Week project — a voice-first, local-first PWA that captures everyday intentions and uses AI to recommend what makes sense next.*
+
+<p align="center">
+  <img src="./assets/flownee-app.png" alt="Flownee voice-first intention assistant home screen" width="430" />
+</p>
+
+[Live App](https://flownee-build-week.netlify.app) · [Devpost](https://devpost.com/software/flownee)<br>
+🛠 `Next.js, React, TypeScript, Tailwind CSS, IndexedDB, PWA, OpenAI, Codex, Netlify`
+
+---
+
+## 🌎 Selected Projects
 
 🔹 **[Algoosh](https://algoosh.com)** (Private Repo / Public Website)  
 *Non-custodial, escrow-based commerce protocol for physical goods & real-world delivery. Built on Algorand.*  
@@ -62,27 +93,13 @@
 
 🔹 **[Aldemart](https://aldemart.com)** (Private Repo / Public Website)  
 *Decentralized marketplace for encrypted digital goods with an on-chain order lifecycle. Built on Algorand.*  
-🛠 `React, TypeScript, Tailwind, Vite, C#, .net 9, Algorand AVM, TealScript`
-
-🔹 **[Foxzard](http://www.foxzard.com)** (Private Project)  
-*Metatrader Forex Indicator Builder*  
-🛠 `.NET C# MVC, SQL Server, EF, jQuery, Processing.js`
+🛠 `React, TypeScript, Tailwind, Vite, C#, .NET 9, Algorand AVM, TealScript`
 
 🔹 **[Bubble Volume Market Charts](https://landofcash.github.io/bubble-volume-market-charts/)** (Public POC)  
-*Real-time Binance API crypto charts* *GITHUB: [bubble-volume-market-charts Github](https://github.com/landofcash/bubble-volume-market-charts)*  
+*Real-time Binance API crypto charts* *GitHub: [bubble-volume-market-charts](https://github.com/landofcash/bubble-volume-market-charts)*<br>
 🛠 `Vue.js 3, Vite, Tailwind, WebSockets, Serverless`
 
 🔹 **[QRXRQ Link Shortener](https://qrxrq.com)** (Public Project)  
-*URL shortening service* *GITHUB: [QRXRQ Link Shortener](https://github.com/landofcash/qrxrq)*  
-🛠 `React, Tailwind, Headless UI, NodeJS, MongoDB, Redis, Azure CI/CD`
-
-🔹 **[BusyLel](http://busylel.conosite.com)** (Private Demo)  
-*eBay-style marketplace*  
-🛠 `C# MVC, Entity Framework, SQL Server, jQuery, Bootstrap`
-
-🔹 **[Land of Cash](http://www.landofcash.net)** (Private Project)  
-*Metatrader tools & signal wizard*  
-🛠 `ASP.NET C#, SQL Server, Prototype.js, Processing.js, Metatrader Experts`
-
----
+*URL shortening service* *GitHub: [QRXRQ Link Shortener](https://github.com/landofcash/qrxrq)*<br>
+🛠 `React, Tailwind, Headless UI, Node.js, MongoDB, Redis, Azure CI/CD`
 
