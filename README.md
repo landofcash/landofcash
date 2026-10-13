@@ -61,18 +61,20 @@
 
 ## 🏆 Featured Hackathon Projects
 
-### Merxet
+### Saywide — Everyone Has Something to Say
 
-*QR-based commerce with smart-contract escrow and end-to-end encrypted order data on Hedera Testnet.*
+*AI-assisted surveys that collect anonymous voice or text responses and turn community feedback into evidence-backed reports with shared priorities, supporting quotes, and suggested actions.*
 
-![Hedera Testnet](https://img.shields.io/badge/Hedera-Testnet-000000?style=flat-square&logo=hedera&logoColor=white)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://app.merxet.com)
+[![Good Neighbor Agents](https://img.shields.io/badge/Agents%20for%20Humans-Good%20Neighbor%20Agents-FF9900?style=flat-square)](https://agentsforhumans.devpost.com/)
+![AWS Strands Agents SDK](https://img.shields.io/badge/AWS-Strands%20Agents%20SDK-232F3E?style=flat-square)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://saywide.com)
 
 <p align="center">
-  <img src="./assets/merxet-hackathon.jpg" alt="Merxet mobile QR shopping, product, and cart screens" width="820" />
+  <img src="./assets/saywide.png" alt="Saywide mobile survey invitation, voice response, and submission confirmation screens" width="820" />
 </p>
 
-[Seller Portal](https://merxet.com) · [Buyer App](https://app.merxet.com) · [Promo Catalog](https://promo.merxet.com) · [Pitch Deck](https://merxet.com/merxet-pitch-deck-final.pdf) · [Demo Video](https://youtu.be/H70hg3E135g)
+[Live App](https://saywide.com) · [GitHub](https://github.com/landofcash/saywide.com) · [Demo Video](https://www.youtube.com/watch?v=dtRBhO6HJOA)<br>
+🛠 `Next.js, TypeScript, Fastify, PostgreSQL, AWS Strands Agents SDK, Amazon Transcribe, OpenAI`
 
 ### Flownee — Your Flow. What Makes Sense Next
 
