@@ -1,8 +1,8 @@
 # Hi, I'm Mike 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;vCenter=true&amp;width=560&amp;lines=Hackathon+builder+%C2%B7+Product-minded+engineer" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=0969DA&amp;vCenter=true&amp;width=560&amp;lines=Hackathon+builder+%C2%B7+Product-minded+engineer" alt="Hackathon builder · Product-minded engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=58A6FF&amp;vCenter=true&amp;width=560&amp;lines=Product-minded+engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=0969DA&amp;vCenter=true&amp;width=560&amp;lines=Product-minded+engineer" alt="Product-minded engineer" />
 </picture>
 
 👨🏽‍💻 **Full-stack developer building commerce, automation, and real-time systems with .NET, TypeScript, Web3, and modern AI tooling.**<br>
