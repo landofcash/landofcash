@@ -66,7 +66,7 @@
 *AI-assisted surveys that collect anonymous voice or text responses and turn community feedback into evidence-backed reports with shared priorities, supporting quotes, and suggested actions.*
 
 [![AWS Strands Agents SDK](https://img.shields.io/badge/AWS-Strands%20Agents%20SDK-232F3E?style=flat-square)](https://saywide.com)
-[![Live App](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://saywide.com)
+[![Live App](https://img.shields.io/badge/Live-App-2EA44F?style=flat-square)](https://saywide.com)
 
 <p align="center">
   <img src="./assets/saywide.png" alt="Saywide mobile survey invitation, voice response, and submission confirmation screens" width="820" />
@@ -80,7 +80,7 @@
 *OpenAI Build Week project — a voice-first, local-first PWA that captures everyday intentions and uses AI to recommend what makes sense next.*
 
 [![OpenAI Build Week](https://img.shields.io/badge/OpenAI-Build%20Week-412991?style=flat-square&logo=openai&logoColor=white)](https://flownee-build-week.netlify.app)
-[![Live App](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://flownee-build-week.netlify.app)
+[![Live App](https://img.shields.io/badge/Live-App-2EA44F?style=flat-square)](https://flownee-build-week.netlify.app)
 
 <p align="center">
   <img src="./assets/flownee-app.png" alt="Flownee voice-first intention assistant home screen" width="430" />
