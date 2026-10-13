@@ -59,15 +59,14 @@
 
 ---
 
-## 🏆 Featured Hackathon Projects
+## 🏆 Featured Projects
 
 ### Saywide — Everyone Has Something to Say
 
 *AI-assisted surveys that collect anonymous voice or text responses and turn community feedback into evidence-backed reports with shared priorities, supporting quotes, and suggested actions.*
 
-[![Good Neighbor Agents](https://img.shields.io/badge/Agents%20for%20Humans-Good%20Neighbor%20Agents-FF9900?style=flat-square)](https://agentsforhumans.devpost.com/)
 ![AWS Strands Agents SDK](https://img.shields.io/badge/AWS-Strands%20Agents%20SDK-232F3E?style=flat-square)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://saywide.com)
+[![Live](https://img.shields.io/badge/Live-Demo-2EA44F?style=flat-square)](https://saywide.com)
 
 <p align="center">
   <img src="./assets/saywide.png" alt="Saywide mobile survey invitation, voice response, and submission confirmation screens" width="820" />
