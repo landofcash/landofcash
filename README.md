@@ -61,7 +61,7 @@
 
 ## 🏆 Featured Projects
 
-### Saywide — Everyone Has Something to Say
+### [SayWide](https://saywide.com) — Everyone Has Something to Say
 
 *AI-assisted surveys that collect anonymous voice or text responses and turn community feedback into evidence-backed reports with shared priorities, supporting quotes, and suggested actions.*
 
